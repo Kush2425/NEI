@@ -25,9 +25,6 @@ Perform Named Entity Identification using SVM classifier with appropriate featur
 ## Dataset
 
 - **Primary Dataset**: CoNLL-2003 NER Data
-- **Sources**: 
-  - [Papers with Code](https://paperswithcode.com/dataset/conll-2003)
-  - [Hugging Face](https://huggingface.co/datasets/conll2003)
 - **Format**: Pre-tokenized sentences with entity annotations
 - **Task**: Binary classification (Named Entity vs Non-Entity)
 
