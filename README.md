@@ -1,5 +1,4 @@
-# Named Entity Identification using SVM Classifier
-
+# Named Entity Identification 
 ## Project Overview
 
 This project implements Named Entity Recognition (NER) using Support Vector Machine (SVM) classifier with comprehensive feature engineering. The system performs binary classification to identify whether words in a sentence are named entities or not, utilizing the CoNLL-2003 dataset for training and evaluation.
